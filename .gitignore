@@ -1,0 +1,5 @@
+# Ignore packages installed by NPM
+node_modules
+
+# Ignore temporary/scratch files
+*~
